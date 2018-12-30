@@ -1,14 +1,16 @@
 # GEO-IP-Tracking-PHP
 This project for geo location with php and javascript 
 
-Copy the code and get the PHP version with 5.5 
-auto close windows and skip to the page you control
+Here we are update the script
+You must run the file as both
 
-It will try to build the hiddne form for tracking the target ip respon also run in php
-1. get start your Web Services and make sure you PHP version is 5.5
-2. make sure the table colum and the value are true.
-
-You can send the link to target and get on the info with the phpAdmin-CP.
+Usage:
+1. Download the both file and upzip to your web seriver dir...
+2. open the record.php and change your database info
+3. If you didn't have a the database and table you should make it by phpmyadmin and create the table colum name following by the record.php
+id INT AUTOINCREMEMNT 
+targetip text ...
+target_host_name .....
 
 Support:
 #User-Agent
